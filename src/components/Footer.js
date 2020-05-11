@@ -140,7 +140,7 @@ class Footer extends Component {
             </div>
             <div className="col-12 text-center">
               <a
-                href="https://github.com/jimolina/covid19-react-app"
+                href="https://github.com/jimolina/jobsboard-reactjs-app"
                 className=""
                 target="_Blank"
                 rel="noopener noreferrer"
@@ -150,7 +150,7 @@ class Footer extends Component {
               <p className="card-text">
                 {translate("footer.getcode")}
                 <a
-                  href="https://github.com/jimolina/covid19-react-app"
+                  href="https://github.com/jimolina/jobsboard-reactjs-app"
                   className=""
                   target="_Blank"
                   rel="noopener noreferrer"

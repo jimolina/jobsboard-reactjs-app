@@ -4,6 +4,8 @@
 
 Jobs Board. A simple ReactJS + GraphQL example code.
 
+Check how is working here: [https://jm-jobsboard-reactjs-graphql-app.netlify.app/](https://jm-jobsboard-reactjs-graphql-app.netlify.app/)
+
 ## Jobs Board API:
 
 [https://api.graphql.jobs/](https://api.graphql.jobs/)
